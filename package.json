@@ -1,0 +1,30 @@
+{
+  "name": "immutable-normalize",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./dist/all.js",
+  "scripts": {
+    "test": "glup test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RainInFall/immutable-normalize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RainInFall/immutable-normalize/issues"
+  },
+  "homepage": "https://github.com/RainInFall/immutable-normalize#readme",
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-core": "^6.9.1",
+    "babel-preset-es2015": "^6.9.0",
+    "gulp": "^3.9.1",
+    "gulp-ava": "^0.12.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-sourcemaps": "^1.6.0"
+  }
+}
