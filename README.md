@@ -1,6 +1,6 @@
 # immutable-normalize
 ---
-[![build status](https://travis-ci.org/RainInFall/immutable-normalize.svg?branch=master)
+[![build status](https://travis-ci.org/RainInFall/immutable-normalize.svg?branch=master)](https://travis-ci.org/RainInFall/immutable-normalize.svg?branch=master)
 [![Coverage Status](https://coveralls.io/repos/github/RainInFall/immutable-normalize/badge.svg?branch=master)](https://coveralls.io/github/RainInFall/immutable-normalize?branch=master)
 
 ## Usage
