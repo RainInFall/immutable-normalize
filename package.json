@@ -10,7 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/RainInFall/immutable-normalize.git"
   },
-  "keywords": ["immutable"],
+  "keywords": [
+    "immutable"
+  ],
   "author": "",
   "license": "MIT",
   "bugs": {
@@ -25,6 +27,7 @@
     "gulp-ava": "^0.12.0",
     "gulp-babel": "^6.1.2",
     "gulp-concat": "^2.6.0",
+    "gulp-coveralls": "^0.1.4",
     "gulp-sourcemaps": "^1.6.0",
     "immutable": "^3.8.1"
   }
