@@ -1,4 +1,5 @@
 # immutable-normalize
+---
 ![build status](https://travis-ci.org/RainInFall/immutable-normalize.svg?branch=master)
 ## Usage
 

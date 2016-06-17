@@ -10,9 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/RainInFall/immutable-normalize.git"
   },
-  "keywords": [],
+  "keywords": ["immutable"],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/RainInFall/immutable-normalize/issues"
   },
